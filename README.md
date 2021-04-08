@@ -44,5 +44,5 @@ An aspiring Software Engineer from Eugene, OR
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 </p>
 
-[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=bgunnar5&count_private=true&show_icons=true&theme=dark)](https://github.com/bgunnar5/github-readme-stats)
+[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=bgunnar5&count_private=true&show_icons=true&theme=dark&hide=stars)](https://github.com/bgunnar5/github-readme-stats)
 
