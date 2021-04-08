@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # I'm Brian Gunnarson
 An aspiring Software Engineer from Eugene, OR
 
-## My Languages:
+## My Languages
 
 <p>
   <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
@@ -29,7 +29,7 @@ An aspiring Software Engineer from Eugene, OR
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
 
-## My Tools & Frameworks:
+## My Tools & Frameworks
 <p>
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
