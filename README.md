@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center"> My name is Brian Gunnarson! </h3>
-<h4 align="center">Aspiring Software Engineer | Seeking Entry-Level Programming Position</h4>
+<p align="center">Aspiring Software Engineer</p>
 
 <h4 align="center">Languages</h4>
 <p align="center">
