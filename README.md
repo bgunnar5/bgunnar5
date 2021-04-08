@@ -1,4 +1,4 @@
-### Hi there 👋
+<h3 align="center">Hi there 👋<h3>
 
 <!--
 **bgunnar5/bgunnar5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center"> Hello! My name is Brian Gunnarson! </h3>
+<h3 align="center"> My name is Brian Gunnarson! </h3>
 <h4 align="center">Aspiring Software Engineer | Seeking Entry-Level Programming Position</h4>
 
 <p align="center">
