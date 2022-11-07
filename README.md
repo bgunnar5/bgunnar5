@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # I'm Brian Gunnarson
-An aspiring Software Engineer from Eugene, OR
+A Software Engineer from Eugene, OR
 
 ## My Languages
 
